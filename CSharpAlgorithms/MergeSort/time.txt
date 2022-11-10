@@ -1,0 +1,3 @@
+lowest: 14ms
+average: 19-24ms
+high: 29-37ms
